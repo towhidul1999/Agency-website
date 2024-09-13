@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './App.css'
+// import './App.css'
 
 import Footer from './Components/Footer'
 import Herosection from './Components/Herosection'
