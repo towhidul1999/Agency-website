@@ -30,7 +30,7 @@ const Technology = () => {
     }, []);
 
     return (
-        <section id="service-section" className="bg-primary-color py-16">
+        <section id="service-section" className="bg-gray-100 py-16">
             <div className="container mx-auto text-center">
                 <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">Tools & Technologies</h1>
                 <p className="text-lg md:text-xl text-gray-700 max-w-2xl mx-auto mb-10">
@@ -57,6 +57,11 @@ const Technology = () => {
                 </div>
 
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center w-auto">
+                    <RiFlutterFill size={60} className="text-blue-500 mx-auto mb-4" />
+                    <h3 className="text-xl font-semibold mb-2">Flutter</h3>
+                </div>
+
+                <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center w-auto">
                     <FaReact size={60} className="text-blue-500 mx-auto mb-4" />
                     <h3 className="text-xl font-semibold mb-2">React.Js</h3>
                 </div>
@@ -80,11 +85,6 @@ const Technology = () => {
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center w-auto">
                     <FaLaravel size={60} className="text-blue-500 mx-auto mb-4" />
                     <h3 className="text-xl font-semibold mb-2">Laravel</h3>
-                </div>
-
-                <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center w-auto">
-                    <RiFlutterFill size={60} className="text-blue-500 mx-auto mb-4" />
-                    <h3 className="text-xl font-semibold mb-2">Flutter</h3>
                 </div>
 
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center w-auto">
