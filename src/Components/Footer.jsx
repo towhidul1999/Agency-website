@@ -3,7 +3,7 @@ import { FaFacebookF, FaInstagram, FaLinkedinIn, FaTwitter } from 'react-icons/f
 
 const Footer = () => {
     return (
-        <footer className='w-screen bg-cover bg-center bg-no-repeat' style={{ backgroundImage: `url('../../images/bg.png')` }}>
+        <footer className='w-screen bg-cover bg-center bg-no-repeat' style={{ backgroundImage: `url('../../images/bg1.png')` }}>
             <div className="w-full h-full bg-opacity-50 py-16 backdrop-blur-sm">
                 <div className='container mx-auto text-center md:text-left text-white'>
                     <div className='grid grid-cols-1 md:grid-cols-3 gap-8'>

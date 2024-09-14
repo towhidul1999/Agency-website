@@ -42,64 +42,64 @@ const Technology = () => {
 
                 {/* Mobile App Development */}
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center max-w-xs">
-                    <IoLogoJavascript size={60} className="text-blue-500 mx-auto mb-4" />
-                    <h3 className="text-xl font-semibold mb-2">JavaScript</h3>
+                    <IoLogoJavascript size={60} className="text-primary-text mx-auto mb-4" />
+                    <h3 className="text-xl font-semibold mb-2 text-primary-text">JavaScript</h3>
                 </div>
 
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center max-w-xs">
-                    <FaPhp size={60} className="text-blue-500 mx-auto mb-4" />
-                    <h3 className="text-xl font-semibold mb-2">PHP</h3>
+                    <FaPhp size={60} className="text-primary-text mx-auto mb-4" />
+                    <h3 className="text-xl font-semibold mb-2 text-primary-text">PHP</h3>
                 </div>
 
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center max-w-xs">
-                    <DiDart size={60} className="text-blue-500 mx-auto mb-4" />
-                    <h3 className="text-xl font-semibold mb-2">Dart</h3>
+                    <DiDart size={60} className="text-primary-text mx-auto mb-4" />
+                    <h3 className="text-xl font-semibold mb-2 text-primary-text">Dart</h3>
                 </div>
 
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center w-auto">
-                    <RiFlutterFill size={60} className="text-blue-500 mx-auto mb-4" />
-                    <h3 className="text-xl font-semibold mb-2">Flutter</h3>
+                    <RiFlutterFill size={60} className="text-primary-text mx-auto mb-4" />
+                    <h3 className="text-xl font-semibold mb-2 text-primary-text">Flutter</h3>
                 </div>
 
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center w-auto">
-                    <FaReact size={60} className="text-blue-500 mx-auto mb-4" />
-                    <h3 className="text-xl font-semibold mb-2">React.Js</h3>
+                    <FaReact size={60} className="text-primary-text mx-auto mb-4" />
+                    <h3 className="text-xl font-semibold mb-2 text-primary-text">React.Js</h3>
                 </div>
 
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center w-auto">
-                    <TbBrandReactNative size={60} className="text-blue-500 mx-auto mb-4" />
-                    <h3 className="text-xl font-semibold mb-2">React Native</h3>
+                    <TbBrandReactNative size={60} className="text-primary-text mx-auto mb-4" />
+                    <h3 className="text-xl font-semibold mb-2 text-primary-text">React Native</h3>
                 </div>
 
 
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center w-auto">
-                    <FaNode size={60} className="text-blue-500 mx-auto mb-4" />
-                    <h3 className="text-xl font-semibold mb-2">Node.JS</h3>
+                    <FaNode size={60} className="text-primary-text mx-auto mb-4" />
+                    <h3 className="text-xl font-semibold mb-2 text-primary-text">Node.JS</h3>
                 </div>
 
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center w-auto">
-                    <SiExpress size={60} className="text-blue-500 mx-auto mb-4" />
-                    <h3 className="text-xl font-semibold mb-2">Express.JS</h3>
+                    <SiExpress size={60} className="text-primary-text mx-auto mb-4" />
+                    <h3 className="text-xl font-semibold mb-2 text-primary-text">Express.JS</h3>
                 </div>
 
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center w-auto">
-                    <FaLaravel size={60} className="text-blue-500 mx-auto mb-4" />
-                    <h3 className="text-xl font-semibold mb-2">Laravel</h3>
+                    <FaLaravel size={60} className="text-primary-text mx-auto mb-4" />
+                    <h3 className="text-xl font-semibold mb-2 text-primary-text">Laravel</h3>
                 </div>
 
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center w-auto">
-                    <FaPython size={60} className="text-blue-500 mx-auto mb-4" />
-                    <h3 className="text-xl font-semibold mb-2">Python</h3>
+                    <FaPython size={60} className="text-primary-text mx-auto mb-4" />
+                    <h3 className="text-xl font-semibold mb-2 text-primary-text">Python</h3>
                 </div>
 
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center w-auto">
-                    <FaGit size={60} className="text-blue-500 mx-auto mb-4" />
-                    <h3 className="text-xl font-semibold mb-2">Git</h3>
+                    <FaGit size={60} className="text-primary-text mx-auto mb-4" />
+                    <h3 className="text-xl font-semibold mb-2 text-primary-text">Git</h3>
                 </div>
 
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center w-auto">
-                    <FaAws size={60} className="text-blue-500 mx-auto mb-4" />
-                    <h3 className="text-xl font-semibold mb-2">AWS</h3>
+                    <FaAws size={60} className="text-primary-text mx-auto mb-4" />
+                    <h3 className="text-xl font-semibold mb-2 text-primary-text">AWS</h3>
                 </div>
             </div>
         </section>
