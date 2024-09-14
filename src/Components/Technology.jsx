@@ -41,9 +41,15 @@ const Technology = () => {
             <div className={`container mx-auto grid grid-cols-1 sm:grid-cols-3 md:grid-cols-6 gap-8 justify-items-center transition-opacity duration-1000 ease-out transform ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
 
                 {/* Mobile App Development */}
+<<<<<<< HEAD
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center max-w-xs">
                     <IoLogoJavascript size={60} className="text-primary-text mx-auto mb-4" />
                     <h3 className="text-xl font-semibold mb-2 text-primary-text">JavaScript</h3>
+=======
+                <div className="bg-white shadow-lg hover:bg-primary-text rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center max-w-xs">
+                    <IoLogoJavascript size={60} className="text-blue-500 mx-auto mb-4" />
+                    <h3 className="text-xl font-semibold mb-2">JavaScript</h3>
+>>>>>>> 60f2553d835b08d9e514bb7f2edf8057a5d57056
                 </div>
 
                 <div className="bg-white shadow-lg rounded-lg p-6 hover:scale-105 transform transition-all duration-300 ease-in-out text-center max-w-xs">
